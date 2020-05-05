@@ -1,0 +1,196 @@
+#pragma once
+
+// ARK (309.53) SDK
+
+#ifdef _MSC_VER
+	#pragma pack(push, 0x8)
+#endif
+
+#include "ARK_DinoBlueprintBase_RootBoneName_Mounted_classes.hpp"
+
+namespace sdk
+{
+//---------------------------------------------------------------------------
+//Parameters
+//---------------------------------------------------------------------------
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.BlueprintPlayAnimationEvent
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_BlueprintPlayAnimationEvent_Params
+{
+	class UAnimMontage**                               AnimationMontage;                                         // (Parm, ZeroConstructor, IsPlainOldData)
+	float*                                             PlayRate;                                                 // (Parm, ZeroConstructor, IsPlainOldData)
+	float                                              playedAnimLength;                                         // (Parm, OutParm, ZeroConstructor, IsPlainOldData)
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3240
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3240_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_SequencePlayer_4163
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_SequencePlayer_4163_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_ModifyBone_636
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_ModifyBone_636_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3239
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3239_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3238
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3238_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3237
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3237_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3236
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3236_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_SequencePlayer_4162
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_SequencePlayer_4162_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_SequencePlayer_4161
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_SequencePlayer_4161_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3235
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3235_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3234
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3234_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_SequencePlayer_4158
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_SequencePlayer_4158_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_RotationOffsetBlendSpace_186
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_RotationOffsetBlendSpace_186_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_SequencePlayer_4157
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_SequencePlayer_4157_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3233
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3233_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3232
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3232_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_SequencePlayer_4156
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_SequencePlayer_4156_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_SequencePlayer_4155
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_SequencePlayer_4155_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3231
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3231_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3230
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3230_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3229
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3229_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_ModifyBone_635
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_ModifyBone_635_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3228
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3228_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3227
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3227_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3226
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3226_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_GroundBones_186
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_GroundBones_186_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_GroundBones_185
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_GroundBones_185_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_ApplyAdditive_258
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_ApplyAdditive_258_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3225
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3225_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3224
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_BlendListByBool_3224_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_SequencePlayer_4150
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_AnimGraphNode_SequencePlayer_4150_Params
+{
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.BlueprintUpdateAnimation
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_BlueprintUpdateAnimation_Params
+{
+	float*                                             DeltaTimeX;                                               // (Parm, ZeroConstructor, IsPlainOldData)
+};
+
+// Function DinoBlueprintBase_RootBoneName_Mounted.DinoBlueprintBase_RootBoneName_Mounted_C.ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted
+struct UDinoBlueprintBase_RootBoneName_Mounted_C_ExecuteUbergraph_DinoBlueprintBase_RootBoneName_Mounted_Params
+{
+	int                                                EntryPoint;                                               // (Parm, ZeroConstructor, IsPlainOldData)
+};
+
+}
+
+#ifdef _MSC_VER
+	#pragma pack(pop)
+#endif

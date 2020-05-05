@@ -1,0 +1,56 @@
+// ARK (309.53) SDK
+
+#ifdef _MSC_VER
+	#pragma pack(push, 0x8)
+#endif
+
+#include "ARK_ProjGrenade_Gauntlet_parameters.hpp"
+
+namespace sdk
+{
+//---------------------------------------------------------------------------
+//Functions
+//---------------------------------------------------------------------------
+
+// Function ProjGrenade_Gauntlet.ProjGrenade_Gauntlet_C.UserConstructionScript
+// ()
+
+void AProjGrenade_Gauntlet_C::UserConstructionScript()
+{
+	static auto fn = UObject::FindObject<UFunction>("Function ProjGrenade_Gauntlet.ProjGrenade_Gauntlet_C.UserConstructionScript");
+
+	AProjGrenade_Gauntlet_C_UserConstructionScript_Params params;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+
+	fn->FunctionFlags = flags;
+}
+
+
+// Function ProjGrenade_Gauntlet.ProjGrenade_Gauntlet_C.ExecuteUbergraph_ProjGrenade_Gauntlet
+// ()
+// Parameters:
+// int                            EntryPoint                     (Parm, ZeroConstructor, IsPlainOldData)
+
+void AProjGrenade_Gauntlet_C::ExecuteUbergraph_ProjGrenade_Gauntlet(int EntryPoint)
+{
+	static auto fn = UObject::FindObject<UFunction>("Function ProjGrenade_Gauntlet.ProjGrenade_Gauntlet_C.ExecuteUbergraph_ProjGrenade_Gauntlet");
+
+	AProjGrenade_Gauntlet_C_ExecuteUbergraph_ProjGrenade_Gauntlet_Params params;
+	params.EntryPoint = EntryPoint;
+
+	auto flags = fn->FunctionFlags;
+
+	UObject::ProcessEvent(fn, &params);
+
+	fn->FunctionFlags = flags;
+}
+
+
+}
+
+#ifdef _MSC_VER
+	#pragma pack(pop)
+#endif

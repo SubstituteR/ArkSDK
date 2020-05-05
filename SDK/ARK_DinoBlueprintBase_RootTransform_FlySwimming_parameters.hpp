@@ -1,0 +1,176 @@
+#pragma once
+
+// ARK (309.53) SDK
+
+#ifdef _MSC_VER
+	#pragma pack(push, 0x8)
+#endif
+
+#include "ARK_DinoBlueprintBase_RootTransform_FlySwimming_classes.hpp"
+
+namespace sdk
+{
+//---------------------------------------------------------------------------
+//Parameters
+//---------------------------------------------------------------------------
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.BlueprintPlayAnimationEvent
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_BlueprintPlayAnimationEvent_Params
+{
+	class UAnimMontage**                               AnimationMontage;                                         // (Parm, ZeroConstructor, IsPlainOldData)
+	float*                                             PlayRate;                                                 // (Parm, ZeroConstructor, IsPlainOldData)
+	float                                              playedAnimLength;                                         // (Parm, OutParm, ZeroConstructor, IsPlainOldData)
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3138
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3138_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_SequencePlayer_4073
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_SequencePlayer_4073_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_ModifyBone_624
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_ModifyBone_624_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3137
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3137_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_RotationOffsetBlendSpace_180
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_RotationOffsetBlendSpace_180_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3136
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3136_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3135
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3135_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_SequencePlayer_4071
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_SequencePlayer_4071_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3134
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3134_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3133
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3133_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_SequencePlayer_4070
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_SequencePlayer_4070_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_SequencePlayer_4069
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_SequencePlayer_4069_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3132
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3132_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_SequencePlayer_4068
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_SequencePlayer_4068_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3131
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3131_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3130
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3130_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_ApplyAdditive_252
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_ApplyAdditive_252_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3129
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3129_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3128
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3128_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3127
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3127_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_SequencePlayer_4063
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_SequencePlayer_4063_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3126
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3126_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3125
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3125_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_SequencePlayer_4062
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_SequencePlayer_4062_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_SequencePlayer_4061
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_SequencePlayer_4061_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3124
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3124_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3123
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_EvaluateGraphExposedInputs_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_AnimGraphNode_BlendListByBool_3123_Params
+{
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.BlueprintUpdateAnimation
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_BlueprintUpdateAnimation_Params
+{
+	float*                                             DeltaTimeX;                                               // (Parm, ZeroConstructor, IsPlainOldData)
+};
+
+// Function DinoBlueprintBase_RootTransform_FlySwimming.DinoBlueprintBase_RootTransform_FlySwimming_C.ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming
+struct UDinoBlueprintBase_RootTransform_FlySwimming_C_ExecuteUbergraph_DinoBlueprintBase_RootTransform_FlySwimming_Params
+{
+	int                                                EntryPoint;                                               // (Parm, ZeroConstructor, IsPlainOldData)
+};
+
+}
+
+#ifdef _MSC_VER
+	#pragma pack(pop)
+#endif
