@@ -3,11 +3,11 @@
 #include "SDK/ARK_Basic.hpp"
 
 #include "SDK/ARK_PrimalItemDyeGeneric_classes.hpp"
-#include "SDK/ARK_PrimalItemDyeGeneric_functions.hpp"
+#include "SDK/ARK_PrimalItemDyeGeneric_structs.hpp"
 #include "SDK/ARK_PrimalItemDyeGeneric_parameters.hpp"
 
 #include "SDK/ARK_PrimalItemWeaponGeneric_classes.hpp"
-#include "SDK/ARK_PrimalItemWeaponGeneric_functions.hpp"
+#include "SDK/ARK_PrimalItemWeaponGeneric_structs.hpp"
 #include "SDK/ARK_PrimalItemWeaponGeneric_parameters.hpp"
 
 #include "SDK/ARK_AIModule_classes.hpp"
