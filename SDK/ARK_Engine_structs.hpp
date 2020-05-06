@@ -1,5 +1,6 @@
 #pragma once
 #pragma warning(disable : 4369)
+#pragma warning(disable : 4309)
 // ARK (309.53) SDK
 
 #ifdef _MSC_VER
